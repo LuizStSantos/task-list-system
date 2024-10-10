@@ -20,7 +20,7 @@ This project is a simple task list management system that allows users to add, r
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/task-list-system.git
+    git clone https://github.com/LuizStSantos/task-list-system.git
     ```
 
 2. **Compile and run**:
